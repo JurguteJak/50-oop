@@ -11,3 +11,17 @@ console.log(rexas.addNumbers(-3, -2));
 console.log(rexas.addNumbers(-3, 3));
 console.log(rexas.manyBones(20));
 
+console.clear();
+
+const lese = new Dog('Lese', 'Brown', 2);
+console.log(lese);
+
+console.log(lese.lostLeg());
+console.log(lese.lostLeg());
+console.log(lese.lostLeg());
+console.log(lese.lostLeg());
+console.log(lese.lostLeg());
+// console.log(lese);
+
+console.log(lese.birthday());
+console.log(lese.birthday());
